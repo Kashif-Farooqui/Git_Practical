@@ -1,1 +1,1 @@
-## Git Practise to push the code on git hub
+## Git Practise  push the code to git hub
